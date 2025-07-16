@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ Im currently working at SODEP S.A..<br>✔ Learning Computer Egineering at the National University of Asunción.<br>✔ Interested in web technologies as well as other technologies.<br>✔ Im from Paraguay. <br>✔ Im actively looking for programming jobs.<br>✔ My long-term goal is to become a senior developer and lead a software development team.
+✔ Im currently working at SODEP S.A..<br>✔ Learning Computer Egineering at the National University of Asunción.<br>✔ Interested in web technologies as well as other technologies.<br>✔ Im from Paraguay. <br>✔ My long-term goal is to become a senior developer and lead a software development team.
 
 
 ## 🌐 Socials:
